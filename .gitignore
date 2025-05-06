@@ -1,2 +1,4 @@
 .env
 datasets/
+toronto-weather-datasets-daily-2014-2025
+toronto-weather-datasets-hourly-2014-2025
